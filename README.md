@@ -5,7 +5,7 @@
 # Descrição
 - Recriação do jogo Tic Tac Toe, o famoso jogo da velha.
 
-# Tecnologias
+# Tecnologias :man_technologist:	
 
 - Mendix :mexico:;
 - JavaScript;
