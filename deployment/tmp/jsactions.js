@@ -1,0 +1,10 @@
+export const MyFirstModule$cont00 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont00")).cont00;
+export const MyFirstModule$Validation = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/Validation")).Validation;
+export const MyFirstModule$cont01 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont01")).cont01;
+export const MyFirstModule$cont02 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont02")).cont02;
+export const MyFirstModule$cont03 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont03")).cont03;
+export const MyFirstModule$cont04 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont04")).cont04;
+export const MyFirstModule$cont05 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont05")).cont05;
+export const MyFirstModule$cont06 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont06")).cont06;
+export const MyFirstModule$cont07 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont07")).cont07;
+export const MyFirstModule$cont08 = async () => (await import("C:/Users/LSGH/Downloads/Games-main/javascriptsource/myfirstmodule/actions/cont08")).cont08;
